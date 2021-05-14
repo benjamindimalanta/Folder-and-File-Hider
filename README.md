@@ -6,6 +6,9 @@ This simple windows command can hide specific Folder and can't be seen even if y
 ![3](https://user-images.githubusercontent.com/66483348/118280717-86f66980-b4dd-11eb-9745-55d01e60a3cf.JPG)
 ![4](https://user-images.githubusercontent.com/66483348/118280724-88279680-b4dd-11eb-8b6d-1b91d3a38f30.JPG)
 
-
 All file will be hidden and cannot be seen.
-For you to see again your file you need to run the .bat file again and put the **Default Password**  admin
+For you to see again your file you need to run the .bat file again and put the Default Password  ****admin****
+
+You can change Defaul Password look for the command (IF NOT %pass% == )
+![image](https://user-images.githubusercontent.com/66483348/118281352-2b78ab80-b4de-11eb-967b-bf158913308f.png)
+
